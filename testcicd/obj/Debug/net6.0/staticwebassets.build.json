@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "j7wcuC4l8bnaG/cFV75X+ddv07KoNQMXVncqlFRYc/o=",
+  "Hash": "RKOFocnW+gdFyoxaKr1Pdz5Huqg5a7ji3ZEqN3v1xG0=",
   "Source": "testcicd",
   "BasePath": "_content/testcicd",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "testcicd\\wwwroot",
+      "Source": "testcicd",
+      "ContentRoot": "C:\\Users\\84971\\Desktop\\testcicd\\testcicd\\wwwroot\\",
+      "BasePath": "_content/testcicd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\84971\\Desktop\\testcicd\\testcicd\\wwwroot\\index.html",
+      "SourceId": "testcicd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\84971\\Desktop\\testcicd\\testcicd\\wwwroot\\",
+      "BasePath": "_content/testcicd",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }

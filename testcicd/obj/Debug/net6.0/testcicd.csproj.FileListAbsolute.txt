@@ -25,3 +25,4 @@ C:\Users\84971\Desktop\testcicd\testcicd\obj\Debug\net6.0\refint\testcicd.dll
 C:\Users\84971\Desktop\testcicd\testcicd\obj\Debug\net6.0\testcicd.pdb
 C:\Users\84971\Desktop\testcicd\testcicd\obj\Debug\net6.0\testcicd.genruntimeconfig.cache
 C:\Users\84971\Desktop\testcicd\testcicd\obj\Debug\net6.0\ref\testcicd.dll
+C:\Users\84971\Desktop\testcicd\testcicd\bin\Debug\net6.0\testcicd.staticwebassets.runtime.json
